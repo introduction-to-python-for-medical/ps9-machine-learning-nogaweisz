@@ -1,2 +1,2 @@
 path: "noga_model.joblib"
-features: ['PPE', 'DFA']
+features: ['PPE','DFA']
